@@ -1,0 +1,12 @@
+# Ignore database file
+expense_tracker.db
+
+# Ignore python cache files
+__pycache__/    
+
+# Ignore logs
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
